@@ -1,0 +1,20 @@
+.container ul {
+  display: flex;
+  justify-content: center;
+}
+
+.rounded-pill.height {
+  background-color: #0e1111;
+  border: none;
+  height: 40px;
+}
+
+.rounded-pill.buy-now {
+  background-color: #0e1111;
+  border: none;
+}
+
+.btn {
+  background-color: #0e1111;
+  border: none;
+}
